@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.intro {
+  background-color: #1F618D;
+  color: #ffffff;
+  text-align: center;
+}
+
+.intro h1 {
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.dessert li, .restaurants li {
+  list-style-type: none;
+  font-size: 25px;
+  line-height: 35px;
+}
+
+.dessert h3, .restaurants h3 {
+  color: pink;
+  font-size: 35px;
+  text-decoration: underline;
+}
+
+p {
+  line-height: 35px;
+}
+.about {
+  background-color: #FEF9E7;
+  text-align: center;
+}
+
+.about h3{
+  text-decoration: underline;
+  font-size: 35px;
+}
+
+p.name {
+  font-size: 30px;
+}
+
+.about img {
+  width: 25%;
+}
